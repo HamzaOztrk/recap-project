@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recap-project/static/css/main.5c27564d.css",
+    "main.js": "/recap-project/static/js/main.87a265a5.js",
+    "index.html": "/recap-project/index.html",
+    "main.5c27564d.css.map": "/recap-project/static/css/main.5c27564d.css.map",
+    "main.87a265a5.js.map": "/recap-project/static/js/main.87a265a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c27564d.css",
+    "static/js/main.87a265a5.js"
+  ]
+}
